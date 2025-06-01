@@ -1,8 +1,6 @@
-# Template Pack for PopTracker
+# Sly 2: Band of Thieves Tracker
 
-This a template tracker package for PopTracker.
-
-Includes examples for AP and SNES memory autotracking and beginner-friendly explanations in the pack.
+Poptracker pack for Sly 2: Band of Thieves for autotracking with Archipelago.
 
 ## Installation
 
